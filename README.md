@@ -1,2 +1,2 @@
-# Bootstrap_mini_project
+# Bootstrap_project
 Subscription page
